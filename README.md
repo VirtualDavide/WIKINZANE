@@ -171,14 +171,6 @@ git checkout -b feature-nome-feature
 
 ## ✍️ Come contribuire
 
-* **Creare un Index** → se servono nuovi collegamenti per più tag.
-* **Creare un Tag** → se servono nuove categorie da collegare a index e note.
-* **Creare una Raw Note** → per bozze non finite o in lavorazione.
-* **Creare una Atomic Note** → per contenuti già pronti e completi.
-* **Creare un Excalidraw** → per aggiungere disegni o schemi grafici.
-
-⚠️ Non creare file fuori dalle cartelle già esistenti e **non toccare la cartella Templates**.
-
 Entra nella cartella:
 
 ```bash
@@ -192,6 +184,14 @@ git checkout -b feature-nome-feature
 ```
 
 👉 Un **branch** è una “copia” del progetto principale dove puoi lavorare senza modificare subito il **main**.
+
+* **Creare un Index** → se servono nuovi collegamenti per più tag.
+* **Creare un Tag** → se servono nuove categorie da collegare a index e note.
+* **Creare una Raw Note** → per bozze non finite o in lavorazione.
+* **Creare una Atomic Note** → per contenuti già pronti e completi.
+* **Creare un Excalidraw** → per aggiungere disegni o schemi grafici.
+
+⚠️ Non creare file fuori dalle cartelle già esistenti e **non toccare la cartella Templates**.
 
 ---
 
