@@ -1,0 +1,19 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Cartelle temporanee di Obsidian
+.obsidian/workspace
+.obsidian/plugins
+.obsidian/themes
+.obsidian/cache
+.obsidian/snapshots
+
+# Backup o file temporanei
+*.bak
+*.tmp
+
+# File compilati o esportazioni
+*.exe
+*.dll
+*.pyc
