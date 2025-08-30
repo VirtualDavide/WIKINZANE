@@ -1,11 +1,7 @@
 Creation Date: {{date}} 
 Creation Time: {{time}}
-Author: [[]]
 
-## {{Title}}
-
-
-## REFERENCES
+## YOUR NOTES
 - [[]]
-## TAGS
+## YOU
 - [[]]
