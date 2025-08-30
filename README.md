@@ -135,20 +135,6 @@ git clone https://github.com/WIKIZANE.git
 git clone git@github.com:VirtualDavide/WIKIZANE.git
 ```
 
-Entra nella cartella:
-
-```bash
-cd WIKIZANE
-```
-
-Crea un **branch** prima di iniziare a lavorare:
-
-```bash
-git checkout -b feature-nome-feature
-```
-
-👉 Un **branch** è una “copia” del progetto principale dove puoi lavorare senza modificare subito il **main**.
-
 ---
 
 ## 🗂 Configurazione Templates in Obsidian
