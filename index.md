@@ -1,4 +1,6 @@
-# 🌌 WIKINZANE - HOMEPAGE
+---
+title: 🌌 WIKINZANE - HOMEPAGE
+---
 
 Benvenuto nell’**universo di WIKINZANE**.  
 Questa è la mappa stellare del progetto: il punto da cui puoi raggiungere tutte le galassie del nostro sapere.  
