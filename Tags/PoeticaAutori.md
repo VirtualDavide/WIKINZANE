@@ -1,1 +1,0 @@
-*La poetica di un autore è l'insieme delle idee, dei valori e delle convinzioni che emergono dalle sue opere letterarie. È il modo in cui l'autore esprime se stesso attraverso le sue scelte linguistiche, tematiche e stilistiche.*
